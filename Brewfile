@@ -1,4 +1,5 @@
-tap "romkatv/powerlevel10k"
+tap 'romkatv/powerlevel10k'
+tap 'homebrew/cask-drivers'
 
 brew 'jq'
 brew 'mtr'
@@ -29,6 +30,7 @@ cask 'microsoft-excel'
 cask 'visual-studio-code'
 cask 'ecamm-live'
 cask 'cleanshot'
+cask 'elgato-stream-deck'
 
 mas '1Password for Safari', id: 1569813296
 mas 'Microsoft Remote Desktop', id: 1295203466
