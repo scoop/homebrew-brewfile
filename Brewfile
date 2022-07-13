@@ -10,6 +10,7 @@ brew 'direnv'
 brew 'exa'
 brew 'romkatv/powerlevel10k/powerlevel10k'
 
+cask 'bartender'
 cask 'fig'
 cask 'raycast'
 cask 'firefox'
@@ -30,3 +31,4 @@ cask 'ecamm-live'
 cask 'cleanshot'
 
 mas '1Password for Safari', id: 1569813296
+mas 'Microsoft Remote Desktop', id: 1295203466
