@@ -27,5 +27,6 @@ cask 'microsoft-word'
 cask 'microsoft-excel'
 cask 'visual-studio-code'
 cask 'ecamm-live'
+cask 'cleanshot'
 
 mas '1Password for Safari', id: 1569813296
