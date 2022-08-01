@@ -45,6 +45,8 @@ cask 'adobe-creative-cloud'
 cask 'pingplotter'
 cask 'fliqlo'
 cask 'ledger-live'
+cask 'transmit'
+cask 'docker'
 
 mas '1Password for Safari', id: 1569813296
 mas 'Microsoft Remote Desktop', id: 1295203466
