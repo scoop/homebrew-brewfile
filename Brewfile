@@ -2,6 +2,7 @@ tap 'romkatv/powerlevel10k'
 tap 'homebrew/cask-drivers'
 
 brew 'jq'
+brew 'fzf'
 brew 'mtr'
 brew 'nmap'
 brew 'ssh-copy-id'
@@ -14,6 +15,9 @@ brew 'romkatv/powerlevel10k/powerlevel10k'
 brew 'gh'
 brew 'rg'
 brew 'fd'
+brew 'npm'
+brew 'go'
+brew 'youtube-dl'
 
 cask 'bartender'
 cask 'fig'
@@ -47,8 +51,10 @@ cask 'fliqlo'
 cask 'ledger-live'
 cask 'transmit'
 cask 'docker'
+cask 'powershell'
+cask 'rescuetime'
 
-mas '1Password for Safari', id: 1569813296
 mas 'Microsoft Remote Desktop', id: 1295203466
 mas 'Hush', id: 1544743900
 mas 'HomeControl Menu', id: 1547121417
+mas '1Password for Safari', id: 1569813296
