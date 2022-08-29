@@ -17,6 +17,7 @@ brew 'rg'
 brew 'fd'
 brew 'npm'
 brew 'go'
+brew 'git-delta'
 brew 'youtube-dl'
 
 cask 'bartender'
