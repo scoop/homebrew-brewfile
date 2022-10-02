@@ -19,6 +19,7 @@ brew 'npm'
 brew 'go'
 brew 'git-delta'
 brew 'youtube-dl'
+brew 'oh-my-posh'
 
 cask 'bartender'
 cask 'fig'
